@@ -2,7 +2,7 @@
 
 <!-- GitHub Metrics -->
 <p align="center">
-  <img src="metrics.svg" alt="Metrics" width="700">
+  <img src="github-metrics.svg" alt="Metrics" width="700">
 </p>
 <!-- End GitHub Metrics -->
 
